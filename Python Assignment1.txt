@@ -1,0 +1,28 @@
+Day 1 assignment 1:
+
+Q1: What is python? What are the ways to install python on your PC? 
+
+Ans: Python is an object-oriented, dynamically typed, open-sourced, platform-independent, portable, interpreted programming language which combines the features of both ''C'' and JAVA.
+
+ Ways to install python :
+1) Downloading from www.python.org
+
+2) Downloading IDE 's like visual studio, anaconda, pycharm.
+
+3) Using Google colab you can implement python codes without downloading, as it is cloud based.
+
+
+ 2. What are code enviroments? Types?
+
+Ans :-
+A code environment is a standalone and self-contained environment to run Python or R code. In each location where you can run Python or R code, you can select which code environment to use.
+
+ Types
+1. Text Editors
+Eg: Notepad,Visual studio code
+
+2. Integrated Development Environment(IDE)
+Eg: Pycharm and Spyder
+
+3. Notebook Environment
+Eg: Jupyter
